@@ -1,2 +1,3 @@
-# collage
-Collage maker
+# Collage Maker
+
+Create a collage using python
